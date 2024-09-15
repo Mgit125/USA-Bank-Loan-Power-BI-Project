@@ -85,3 +85,12 @@ Performance Optimization: DAX was employed to optimize the calculations for larg
 
 ## Conclusion:
 This project demonstrates how SQL and Power BI can be used to analyze and visualize bank loan data. The addition of monthly loan application analysis, loan amounts funded/received, home ownership insights, and loan purpose provide a comprehensive view of loan performance, trends, and borrower behavior.
+
+
+## Author - Srinivas
+This project is a key part of my portfolio, showcasing my expertise in Power BI, which is vital for creating dynamic dashboards and driving data-driven decision-making in data analyst roles. It demonstrates my ability to transform complex datasets into visually compelling and actionable insights.
+
+If you have any questions, feedback, or would like to explore collaboration opportunities, please feel free to reach out. I'm always open to discussing data solutions and innovations!
+
+
+
