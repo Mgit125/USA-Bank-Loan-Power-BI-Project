@@ -76,3 +76,4 @@ Description: Provides insights into how home ownership affects loan application 
 
 ![logo](https://github.com/Mgit125/Power-BI-Project/blob/main/2.png)
 
+![logo](https://github.com/Mgit125/Power-BI-Project/blob/main/3.png)
