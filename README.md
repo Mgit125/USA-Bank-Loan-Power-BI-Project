@@ -70,5 +70,6 @@ Visual: Bar chart showing loan applications categorized by home ownership status
 Description: Provides insights into how home ownership affects loan application trends.
 
 
+## Power BI Dashboard
 
 
