@@ -77,3 +77,11 @@ Description: Provides insights into how home ownership affects loan application 
 ![logo](https://github.com/Mgit125/Power-BI-Project/blob/main/2.png)
 
 ![logo](https://github.com/Mgit125/Power-BI-Project/blob/main/3.png)
+
+## Challenges & Solutions:
+Data Cleaning: SQL queries were used to clean and preprocess raw loan data, addressing issues like missing or inconsistent values.
+Data Modeling: Relationships between tables in Power BI allowed for cross-dimensional analysis, making it easier to derive insights from various factors like state, loan term, purpose, and home ownership.
+Performance Optimization: DAX was employed to optimize the calculations for large datasets, ensuring smooth interactivity in the Power BI dashboard.
+
+## Conclusion:
+This project demonstrates how SQL and Power BI can be used to analyze and visualize bank loan data. The addition of monthly loan application analysis, loan amounts funded/received, home ownership insights, and loan purpose provide a comprehensive view of loan performance, trends, and borrower behavior.
