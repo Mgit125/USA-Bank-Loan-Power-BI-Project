@@ -74,4 +74,5 @@ Description: Provides insights into how home ownership affects loan application 
 
 ## Power BI Dashboard
 
+![logo](https://github.com/Mgit125/Power-BI-Project/blob/main/2.png)
 
