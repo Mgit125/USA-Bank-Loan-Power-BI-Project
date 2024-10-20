@@ -90,8 +90,4 @@ This project demonstrates how SQL and Power BI can be used to analyze and visual
 ## Author - Srinivas
 This project is a key part of my portfolio, showcasing my expertise in Power BI, which is vital for creating dynamic dashboards and driving data-driven decision-making in data analyst roles. It demonstrates my ability to transform complex datasets into visually compelling and actionable insights.
 
-### Contact:
-If you have any questions, feedback, or would like to explore collaboration opportunities, please feel free to reach out. I'm always open to discussing data solutions and innovations!
-
-
 
